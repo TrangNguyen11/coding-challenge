@@ -1,5 +1,7 @@
 # coding-challenge
 
+Solve these problem to finished your coding challenge!
+
 Problem #1:
 
 ```
